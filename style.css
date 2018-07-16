@@ -1,4 +1,5 @@
 body{
     background-image: url(img/audi.jpg);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
+    background-position: 400px 100px;
 }
