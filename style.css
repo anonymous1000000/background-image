@@ -1,5 +1,6 @@
 body{
-    background-image: url(img/audi.jpg);
+    background-color: lime;
+    background-image: url(img/audi-los-santos.jpeg);
     background-repeat: no-repeat;
-    background-position: 400px 100px;
+    background-size: cover;
 }
